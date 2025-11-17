@@ -1,0 +1,6 @@
+/.output
+/tc_redirect
+/udp_client
+/udp_server
+/cmake-build-debug/
+/cmake-build-release/
